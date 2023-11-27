@@ -17,7 +17,7 @@ Private = ReplyKeyboardMarkup(
     resize_keyboard=True
 )
 
-token="6879323148:AAHi7RglFgJja_LjaGjIpvIjMbAvYEjl8Kc"
+token="Bot Token"
 
 token=token
 bot = Bot(token=token)
